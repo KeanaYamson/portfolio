@@ -964,3 +964,7 @@ footer p{
     z-index:9999;
 }
 
+.case-study{
+    opacity:1 !important;
+    transform:none !important;
+}
